@@ -1,0 +1,3 @@
+C:/Users/fonix/OneDrive/Área de Trabalho/2ºANO-UNI/1ºSEMESTRE/IIA/TP2/MetodoHibrido2/cmake-build-debug/CMakeFiles/MetdodoHibrido2.dir
+C:/Users/fonix/OneDrive/Área de Trabalho/2ºANO-UNI/1ºSEMESTRE/IIA/TP2/MetodoHibrido2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fonix/OneDrive/Área de Trabalho/2ºANO-UNI/1ºSEMESTRE/IIA/TP2/MetodoHibrido2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
