@@ -1,0 +1,3 @@
+C:/Users/TomasPaiva/Desktop/ISEC/2ºano/1ºSemestre/IIA/Trabalho 2 IIA - Final 2 (opa deu agoraa do nada)/algoritmoEvolutivo/cmake-build-debug/CMakeFiles/algoritmoEvolutivo.dir
+C:/Users/TomasPaiva/Desktop/ISEC/2ºano/1ºSemestre/IIA/Trabalho 2 IIA - Final 2 (opa deu agoraa do nada)/algoritmoEvolutivo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TomasPaiva/Desktop/ISEC/2ºano/1ºSemestre/IIA/Trabalho 2 IIA - Final 2 (opa deu agoraa do nada)/algoritmoEvolutivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
